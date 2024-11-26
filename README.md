@@ -24,8 +24,6 @@
 
 ![preview](/.github/projeto-financas_.png)
 
-[👉🏻Clique aqui para acessar](https://ueveton.github.io/Projeto-Financas/)
-
 > Contato
 
 - 💻uevetonsp89@gmail.com
